@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5C1638BF-85C2-46C4-A9B1-0C435F3593D8}</ProjectGuid>
+    <ProjectGuid>{2F11F44A-3FEB-492A-9113-40C3528BE7AC}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Lesson2_Worksheet</RootNamespace>
-    <AssemblyName>Lesson2 Worksheet</AssemblyName>
+    <RootNamespace>Lesson3_Inheritance</RootNamespace>
+    <AssemblyName>Lesson3 Inheritance</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,9 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Circle.cs" />
+    <Compile Include="BankAccount.cs" />
+    <Compile Include="CurrentAccount.cs" />
+    <Compile Include="FixedTermAccount.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SavingsAccount.cs" />
+    <Compile Include="User.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2F11F44A-3FEB-492A-9113-40C3528BE7AC}</ProjectGuid>
+    <ProjectGuid>{4CA2BF25-1797-4F5D-8530-8DD7A468BEEC}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Lesson3_Inheritance</RootNamespace>
-    <AssemblyName>Lesson3 Inheritance</AssemblyName>
+    <RootNamespace>Lesson4_Polymorphism</RootNamespace>
+    <AssemblyName>Lesson4 Polymorphism</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,17 +43,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BankAccount.cs" />
-    <Compile Include="CurrentAccount.cs" />
-    <Compile Include="FixedTermAccount.cs" />
+    <Compile Include="Circle.cs" />
+    <Compile Include="Cylinder.cs" />
+    <Compile Include="Point.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SavingsAccount.cs" />
-    <Compile Include="User.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="ClassDiagram1.cd" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

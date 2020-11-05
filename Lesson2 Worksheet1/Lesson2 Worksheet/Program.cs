@@ -29,7 +29,6 @@ namespace Lesson2_Worksheet
 
 
             ////Question 2
-
             //Rectangle r = new Rectangle();
 
             //Console.WriteLine("Input the Length of a rectangle: ");
@@ -42,12 +41,20 @@ namespace Lesson2_Worksheet
 
             //Console.ReadKey();
 
+
             //Question 3
             // On the document
 
 
-            ////Question 5b
+            //Question 4
+            // In the Circle.cs
 
+
+            //Question 5
+            // In the Circle.cs
+
+
+            ////Question 5b
             //Random r = new Random();
             //Circle c = new Circle(1, "black");
 
@@ -64,7 +71,6 @@ namespace Lesson2_Worksheet
 
 
             ////Question 6
-
             //Person p1 = new Person();
             //Person p2 = new Person();
 
@@ -79,7 +85,6 @@ namespace Lesson2_Worksheet
 
 
             ////Question 7
-
             //RandomNumbers rn = new RandomNumbers();
 
             //rn.GenerateNumbers();

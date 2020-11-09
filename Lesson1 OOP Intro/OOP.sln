@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson1intoToOOP", "Lesson1intoToOOP\Lesson1intoToOOP.csproj", "{D033371B-906B-44FB-B9A4-77DF5CD88053}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson2 Worksheet1", "Lesson2 Worksheet1\Lesson2 Worksheet1.csproj", "{4C64C656-2577-4AD9-8391-9D2B38E3FF58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson3 Inheritance", "Lesson3 Inheritance\Lesson3 Inheritance.csproj", "{F90965E0-5DDE-4511-9E17-6FDC9578204D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{D033371B-906B-44FB-B9A4-77DF5CD88053}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D033371B-906B-44FB-B9A4-77DF5CD88053}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D033371B-906B-44FB-B9A4-77DF5CD88053}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C64C656-2577-4AD9-8391-9D2B38E3FF58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C64C656-2577-4AD9-8391-9D2B38E3FF58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C64C656-2577-4AD9-8391-9D2B38E3FF58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C64C656-2577-4AD9-8391-9D2B38E3FF58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F90965E0-5DDE-4511-9E17-6FDC9578204D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F90965E0-5DDE-4511-9E17-6FDC9578204D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F90965E0-5DDE-4511-9E17-6FDC9578204D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F90965E0-5DDE-4511-9E17-6FDC9578204D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

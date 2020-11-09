@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Lesson5 Polymorphism ShapesLibrary")]
+[assembly: AssemblyTitle("Lesson6 ShapesCanvas")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Lesson5 Polymorphism ShapesLibrary")]
+[assembly: AssemblyProduct("Lesson6 ShapesCanvas")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("0c3ec6a7-b0a9-4e3e-8f66-bd13cd5e9cb2")]
+[assembly: Guid("b108466f-b7b8-4f94-a354-234dcf2be07e")]
 
 // Version information for an assembly consists of the following four values:
 //

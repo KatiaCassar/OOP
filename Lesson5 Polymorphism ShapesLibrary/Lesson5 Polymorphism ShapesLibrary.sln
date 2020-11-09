@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson5 Polymorphism ShapesLibrary", "Lesson5 Polymorphism ShapesLibrary\Lesson5 Polymorphism ShapesLibrary.csproj", "{56203C74-E3E5-4FEB-8D42-E24331FDE16D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson5 Polymorphism ShapesLibrary", "Lesson5 Polymorphism ShapesLibrary\Lesson5 Polymorphism ShapesLibrary.csproj", "{0C3EC6A7-B0A9-4E3E-8F66-BD13CD5E9CB2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{56203C74-E3E5-4FEB-8D42-E24331FDE16D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{56203C74-E3E5-4FEB-8D42-E24331FDE16D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{56203C74-E3E5-4FEB-8D42-E24331FDE16D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{56203C74-E3E5-4FEB-8D42-E24331FDE16D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C3EC6A7-B0A9-4E3E-8F66-BD13CD5E9CB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C3EC6A7-B0A9-4E3E-8F66-BD13CD5E9CB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C3EC6A7-B0A9-4E3E-8F66-BD13CD5E9CB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C3EC6A7-B0A9-4E3E-8F66-BD13CD5E9CB2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {EC08A0E8-2C44-4C21-89ED-3E29A5D6BD04}
+		SolutionGuid = {83B1C844-65D0-4DEB-89BC-A301FAEB6625}
 	EndGlobalSection
 EndGlobal

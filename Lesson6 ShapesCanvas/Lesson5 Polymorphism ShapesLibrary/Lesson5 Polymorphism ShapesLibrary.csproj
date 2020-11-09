@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0C3EC6A7-B0A9-4E3E-8F66-BD13CD5E9CB2}</ProjectGuid>
+    <ProjectGuid>{0BA014B7-26D5-4CE4-85F7-4EADA5487DA1}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Lesson5_Polymorphism_ShapesLibrary</RootNamespace>
